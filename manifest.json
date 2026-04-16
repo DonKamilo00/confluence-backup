@@ -1,5 +1,662 @@
 {
-  "source": "https://jordanjamesxvi.atlassian.net/wiki",
-  "exported_at": "2026-04-16T07:43:57.749851+00:00",
-  "spaces": []
+  "spaces": [
+    {
+      "key": "MyndMap",
+      "pages": [
+        {
+          "id": "98567",
+          "title": "MyndMap"
+        },
+        {
+          "id": "98583",
+          "title": "Template - Project plan"
+        },
+        {
+          "id": "98595",
+          "title": "Template - Decision documentation"
+        },
+        {
+          "id": "98607",
+          "title": "Template - Meeting notes"
+        },
+        {
+          "id": "1605633",
+          "title": "Personas"
+        },
+        {
+          "id": "1605662",
+          "title": "Jobs-To-Be-Done  Problem Statements"
+        }
+      ]
+    },
+    {
+      "key": "~712020fd067d9b78604e32a9feb00de65aae6e",
+      "pages": [
+        {
+          "id": "196711",
+          "title": "Overview"
+        },
+        {
+          "id": "196757",
+          "title": "Getting started in Confluence"
+        }
+      ]
+    },
+    {
+      "key": "~617a94b63e3753006f26b93d",
+      "pages": [
+        {
+          "id": "197040",
+          "title": "Overview"
+        },
+        {
+          "id": "197041",
+          "title": "Getting started with Confluence  Jira"
+        }
+      ]
+    },
+    {
+      "key": "FOT",
+      "pages": [
+        {
+          "id": "11206678",
+          "title": "MyndMap Ethos."
+        },
+        {
+          "id": "11206700",
+          "title": "What is KeePassXC"
+        },
+        {
+          "id": "11338077",
+          "title": "Terms of Service"
+        },
+        {
+          "id": "11370751",
+          "title": "Fountain of Constitution"
+        },
+        {
+          "id": "11370817",
+          "title": "Google Antigravity"
+        },
+        {
+          "id": "11370878",
+          "title": "MyndMap EULA"
+        },
+        {
+          "id": "11370914",
+          "title": "Templates"
+        },
+        {
+          "id": "11370922",
+          "title": "Cookies"
+        },
+        {
+          "id": "11468820",
+          "title": "Privacy Policy"
+        },
+        {
+          "id": "11796488",
+          "title": "FAQs"
+        },
+        {
+          "id": "22544385",
+          "title": "Marketing scaling research"
+        },
+        {
+          "id": "27983873",
+          "title": "Researcherspublic figures"
+        },
+        {
+          "id": "28016650",
+          "title": "Labs"
+        },
+        {
+          "id": "32997419",
+          "title": "Development Workflow"
+        },
+        {
+          "id": "33030168",
+          "title": "Roles  Responsibilities"
+        },
+        {
+          "id": "33030209",
+          "title": "Pre-Release Checklist"
+        },
+        {
+          "id": "33030216",
+          "title": "Post-Release Monitoring"
+        },
+        {
+          "id": "33128449",
+          "title": "How MyndMap Operates"
+        },
+        {
+          "id": "33128505",
+          "title": "Android Development"
+        },
+        {
+          "id": "33128525",
+          "title": "Testing Strategy"
+        },
+        {
+          "id": "33193995",
+          "title": "iOS Development"
+        },
+        {
+          "id": "33194002",
+          "title": "Versioning"
+        },
+        {
+          "id": "33194033",
+          "title": "Release Playbook"
+        },
+        {
+          "id": "39125036",
+          "title": "Clockify - Operational Time Tracking"
+        },
+        {
+          "id": "45383683",
+          "title": "The Milestone."
+        }
+      ]
+    },
+    {
+      "key": "FOF",
+      "pages": [
+        {
+          "id": "11338021",
+          "title": "Fountain of Finance"
+        },
+        {
+          "id": "32997448",
+          "title": "Intro"
+        },
+        {
+          "id": "32997459",
+          "title": "Runway  Sustainability"
+        },
+        {
+          "id": "33128559",
+          "title": "Funding Readiness"
+        },
+        {
+          "id": "33194049",
+          "title": "Revenue  Pricing"
+        },
+        {
+          "id": "33194058",
+          "title": "Cost  Tooling"
+        }
+      ]
+    },
+    {
+      "key": "FOD",
+      "pages": [
+        {
+          "id": "11338376",
+          "title": "Fountain of Development"
+        },
+        {
+          "id": "32997556",
+          "title": "Operational Guidlines"
+        },
+        {
+          "id": "33030265",
+          "title": "Performance  Reliability"
+        },
+        {
+          "id": "33030280",
+          "title": "Philosophy"
+        },
+        {
+          "id": "33030287",
+          "title": "Authentication"
+        },
+        {
+          "id": "33030306",
+          "title": "Performance  Cost Control"
+        },
+        {
+          "id": "33128588",
+          "title": "Efficient Coding Practices"
+        },
+        {
+          "id": "33128605",
+          "title": "Tooling  Dev Experience"
+        },
+        {
+          "id": "33128629",
+          "title": "Security Rules  Data Protection"
+        },
+        {
+          "id": "33128640",
+          "title": "Firebase in React Native Expo"
+        },
+        {
+          "id": "33194076",
+          "title": "Best Practices"
+        },
+        {
+          "id": "33194103",
+          "title": "Integration Practices"
+        },
+        {
+          "id": "33194135",
+          "title": "Firestore  DB Usage"
+        },
+        {
+          "id": "33194147",
+          "title": "Analytics IFWHEN USED"
+        },
+        {
+          "id": "33456131",
+          "title": "Development Workflow"
+        },
+        {
+          "id": "33488900",
+          "title": "Live Server"
+        },
+        {
+          "id": "33554433",
+          "title": "Intro"
+        },
+        {
+          "id": "33554450",
+          "title": "Expo Go vs Dev Builds"
+        },
+        {
+          "id": "33554467",
+          "title": "Website Access"
+        },
+        {
+          "id": "33587210",
+          "title": "Expo Philosophy"
+        },
+        {
+          "id": "33587219",
+          "title": "Environment  Cloning"
+        },
+        {
+          "id": "33685517",
+          "title": "Testing Rules  Limitations"
+        },
+        {
+          "id": "33882116",
+          "title": "Website UIUX refinement for ADHD app"
+        },
+        {
+          "id": "34406402",
+          "title": "10.02.2026 - Android Testing WIP"
+        },
+        {
+          "id": "39747594",
+          "title": "Sentry  Error Monitoring  Crash Reporting"
+        },
+        {
+          "id": "39747605",
+          "title": "Installation - MacOS"
+        },
+        {
+          "id": "39747634",
+          "title": "Recommended MyndMap Workflow"
+        },
+        {
+          "id": "39747658",
+          "title": "Alerting Setup EmailSlack"
+        },
+        {
+          "id": "39747687",
+          "title": "Why PostHog"
+        },
+        {
+          "id": "39747706",
+          "title": "PostHog Architecture"
+        },
+        {
+          "id": "39813147",
+          "title": "Architecture Overview"
+        },
+        {
+          "id": "39813166",
+          "title": "Sentry  EAS Release Automation"
+        },
+        {
+          "id": "39813176",
+          "title": "Session Replay UX Intelligence"
+        },
+        {
+          "id": "39813183",
+          "title": "Purpose"
+        },
+        {
+          "id": "39845955",
+          "title": "Performance Monitoring Slow Screens"
+        },
+        {
+          "id": "39878670",
+          "title": "Why Sentry Exists"
+        },
+        {
+          "id": "39878677",
+          "title": "Why This Matters for Expo"
+        },
+        {
+          "id": "39878699",
+          "title": "Installation - Windows"
+        },
+        {
+          "id": "39878716",
+          "title": "Development vs Production Builds"
+        },
+        {
+          "id": "39878725",
+          "title": "What Sentry Gives MyndMap"
+        },
+        {
+          "id": "39878746",
+          "title": "Crash Severity Playbook"
+        },
+        {
+          "id": "39878757",
+          "title": "Why This Matters for MyndMap"
+        }
+      ]
+    },
+    {
+      "key": "FOCV",
+      "pages": [
+        {
+          "id": "12321034",
+          "title": "Fountain of Computer Vision"
+        },
+        {
+          "id": "12419076",
+          "title": "Introduction"
+        },
+        {
+          "id": "13697026",
+          "title": "Toward Neuro-Adaptive Productivity Advanced AI Architectures for ADHD Management"
+        }
+      ]
+    },
+    {
+      "key": "FOM",
+      "pages": [
+        {
+          "id": "32997575",
+          "title": "X Twitter"
+        },
+        {
+          "id": "32997600",
+          "title": "Metrics Feedback  Iteration"
+        },
+        {
+          "id": "33030346",
+          "title": "Content Strategy"
+        },
+        {
+          "id": "33030382",
+          "title": "Website"
+        },
+        {
+          "id": "33030408",
+          "title": "Blog Posts"
+        },
+        {
+          "id": "33030428",
+          "title": "X"
+        },
+        {
+          "id": "33030437",
+          "title": "YT Videos"
+        },
+        {
+          "id": "33030446",
+          "title": "Marketing Retro"
+        },
+        {
+          "id": "33128935",
+          "title": "Fountain of Marketing"
+        },
+        {
+          "id": "33129015",
+          "title": "App Showcasing"
+        },
+        {
+          "id": "33129024",
+          "title": "Campaigns  Launches"
+        },
+        {
+          "id": "33129040",
+          "title": "Operational Guidelines"
+        },
+        {
+          "id": "33129061",
+          "title": "Website Updates"
+        },
+        {
+          "id": "33194193",
+          "title": "Philosophy"
+        },
+        {
+          "id": "33194203",
+          "title": "Blog Marketing"
+        },
+        {
+          "id": "33194212",
+          "title": "YouTube"
+        },
+        {
+          "id": "33194244",
+          "title": "Feature Launch"
+        },
+        {
+          "id": "33194253",
+          "title": "Campaigns"
+        },
+        {
+          "id": "35553722",
+          "title": "Japan-First Positioning Narrative"
+        },
+        {
+          "id": "35553739",
+          "title": "Emotional Map Core System"
+        },
+        {
+          "id": "35553750",
+          "title": "Strategic Role"
+        },
+        {
+          "id": "35586179",
+          "title": "Why This Exists"
+        },
+        {
+          "id": "35586199",
+          "title": "Typography System"
+        },
+        {
+          "id": "35586206",
+          "title": "Content Catalogue"
+        },
+        {
+          "id": "35586213",
+          "title": "North Star"
+        },
+        {
+          "id": "35684486",
+          "title": "Dr. Misuzu Nakashima"
+        },
+        {
+          "id": "36667393",
+          "title": "Philosophy of Moments"
+        },
+        {
+          "id": "36700164",
+          "title": "Production Workflow"
+        },
+        {
+          "id": "36732947",
+          "title": "Visual Doctrine"
+        },
+        {
+          "id": "38731803",
+          "title": "Individual Collaborator database"
+        },
+        {
+          "id": "38731905",
+          "title": "Japan Startup PR Newsletter Research"
+        },
+        {
+          "id": "39878781",
+          "title": "JP Newsletter email pitch"
+        },
+        {
+          "id": "41385997",
+          "title": "Disrupting Japan podcast reachout"
+        },
+        {
+          "id": "41418754",
+          "title": "Reach out record"
+        },
+        {
+          "id": "43548674",
+          "title": "Note.com bloggers"
+        },
+        {
+          "id": "44302337",
+          "title": "YouTube leads"
+        },
+        {
+          "id": "47415659",
+          "title": "Phase 3  Outreach Message Templates"
+        },
+        {
+          "id": "47415666",
+          "title": "Files  Attachments"
+        },
+        {
+          "id": "47448081",
+          "title": "Phase 4  March Prep Tracker"
+        },
+        {
+          "id": "47448088",
+          "title": "Phase 5  Core Outreach Principles"
+        },
+        {
+          "id": "47480834",
+          "title": "Overview"
+        },
+        {
+          "id": "47480871",
+          "title": "Phase 1  Clean  Structure the Outreach Database"
+        },
+        {
+          "id": "47513642",
+          "title": "Phase 2  Segment the Distribution Targets"
+        },
+        {
+          "id": "56033282",
+          "title": "Template 1"
+        },
+        {
+          "id": "56033293",
+          "title": "Template 3"
+        },
+        {
+          "id": "56066055",
+          "title": "Template 2"
+        },
+        {
+          "id": "56098837",
+          "title": "Personalization"
+        }
+      ]
+    },
+    {
+      "key": "FOI",
+      "pages": [
+        {
+          "id": "33030175",
+          "title": "Incident Handling"
+        },
+        {
+          "id": "34340901",
+          "title": "10022026 - Expo Setup"
+        },
+        {
+          "id": "34505018",
+          "title": "Fountain of Incidents"
+        },
+        {
+          "id": "35618820",
+          "title": "12022026 - Android Development Build"
+        },
+        {
+          "id": "39485441",
+          "title": "23022026 - Git Repository Inaccessible"
+        },
+        {
+          "id": "39878804",
+          "title": "25022026 - Google Sign-In Failure"
+        },
+        {
+          "id": "40370177",
+          "title": "25.02.2026 - Comprehensive Android Testing review WIP"
+        }
+      ]
+    },
+    {
+      "key": "FOC1",
+      "pages": [
+        {
+          "id": "35553626",
+          "title": "Fountain of Calligraphy"
+        },
+        {
+          "id": "35586115",
+          "title": "Overview  Doctrine"
+        },
+        {
+          "id": "35586138",
+          "title": "Overview"
+        },
+        {
+          "id": "35618866",
+          "title": "Japanese Language Depth Pass"
+        },
+        {
+          "id": "35618899",
+          "title": "English UX Writing Principles"
+        },
+        {
+          "id": "35618933",
+          "title": "English Copy Review Checklist"
+        },
+        {
+          "id": "35684397",
+          "title": "Typography Doctrine"
+        },
+        {
+          "id": "35684406",
+          "title": "Cross-Platform Calligraphy"
+        },
+        {
+          "id": "35684422",
+          "title": "MyndMap Japanese Voice  Writing Rules"
+        },
+        {
+          "id": "35684453",
+          "title": "MyndMap English Voice  Tone"
+        },
+        {
+          "id": "35684460",
+          "title": "Reading Pace  Cognitive Load English"
+        },
+        {
+          "id": "35684467",
+          "title": "Unified Typography Doctrine"
+        }
+      ]
+    }
+  ]
 }
