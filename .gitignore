@@ -1,0 +1,15 @@
+# Environment variables (IMPORTANT)
+.env
+
+# Node (if you're using it)
+node_modules/
+
+# Python (if you're using it)
+__pycache__/
+*.pyc
+
+# Mac
+.DS_Store
+
+# Logs
+*.log
